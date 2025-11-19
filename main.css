@@ -2,6 +2,7 @@ body {
     background-color: white;
     color: red;
     background-image: url(Liverpool.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
     background-image: top right;
     margin-right: 200px;
