@@ -1,8 +1,13 @@
 body {
     background-color: white;
     color: red;
+    background-image: url(Liverpool_FC_crest,_Main_Stand);
+    background-image: top right;
+    margin-right: 200px;
 }
 
 h1 {
     font-family: "Copperplate", "Helvetica", sans-serif;
+    text-align: top left;
 }
+
