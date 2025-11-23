@@ -1,15 +1,12 @@
 body {
-    background-color: white;
+    background-color: beige;
     color: red;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: right top;
     margin-right: 50px;
 }
 
 h1 {
     font-family: "Copperplate", "Helvetica", sans-serif;
-    text-align: top left;
+    text-align: left;
     color: red;
 }
 
