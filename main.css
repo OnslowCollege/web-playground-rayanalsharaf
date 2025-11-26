@@ -22,5 +22,23 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color: turquoise;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+}
+
+ul li a:hover {
+    background-color: turquoise
 }
 
