@@ -1,5 +1,6 @@
 body {
     background-color: rgb(221, 201, 156);
+    position: absolute;
     color: red;
     margin-right: 50px;
 }
@@ -45,6 +46,4 @@ h4 {
     width: 100%;
 }
 
-img {
-    text-align: right;
-}
+
