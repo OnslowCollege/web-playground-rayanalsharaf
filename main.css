@@ -24,11 +24,10 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: turquoise;
+    display: flex;
+    justify-content: center;
 }
 
-ul li {
-    float: left;
-}
 
 ul li a {
     display: block;
@@ -39,6 +38,6 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color: turquoise
+    background-color: turquoise;
 }
 
