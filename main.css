@@ -1,19 +1,13 @@
 body {
     background-color: rgb(221, 201, 156);
     color: red;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center
-   align-items: center;
-   height: 100vh;
+    margin-right: 50px;
 }
 
 h1 {
     font-family: "Copperplate", "Helvetica", sans-serif;
-    font-size: 4rem;
     color: red;
-    margin: 0;
+    text-align: left;
 }
 
 p {
